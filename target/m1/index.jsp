@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "change 1" %></h2>
+<h2><%= "change 2" %></h2>
 </body>
 </html>
